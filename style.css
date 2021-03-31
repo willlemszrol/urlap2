@@ -1,0 +1,45 @@
+body{
+   
+
+}
+#telefonszam{
+    left: 230px;
+    position: absolute;
+}
+#szam{
+    position: absolute;
+    left: 230px;
+}
+#telszam{
+    position: absolute;
+    left: 288px;
+}
+#varos{
+    position: absolute;
+    left: 230px;
+}
+#varosok{
+    position: absolute;
+    left: 230px;
+    width: 200px;
+}
+#cim{
+    position: absolute;
+    left: 230px;
+}
+#cimem{
+    position: absolute;
+    left: 230px;
+    width: 170px;
+}
+#mentes{
+    position: absolute;
+    left: 130px;
+    text-align: center;
+    width: 200px;
+}
+form{
+    background-color: antiquewhite;
+    width: 500px;
+    height: 300px;
+}
